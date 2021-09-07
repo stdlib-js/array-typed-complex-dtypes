@@ -125,6 +125,22 @@ bool = isdtype( 'beep' );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/array/dtypes`][@stdlib/array/dtypes]: list of array data types.
+-   [`@stdlib/array/typed-dtypes`][@stdlib/array/typed-dtypes]: list of typed array data types.
+-   [`@stdlib/ndarray/dtypes`][@stdlib/ndarray/dtypes]: list of ndarray data types.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -181,6 +197,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-typed-complex-dtypes/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/dtypes]: https://github.com/stdlib-js/array-dtypes
+
+[@stdlib/array/typed-dtypes]: https://github.com/stdlib-js/array-typed-dtypes
+
+[@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
+
+<!-- </related-links> -->
 
 </section>
 
