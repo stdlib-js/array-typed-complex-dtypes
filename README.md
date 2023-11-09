@@ -154,6 +154,7 @@ bool = isdtype( 'beep' );
 
 -   <span class="package-name">[`@stdlib/array-dtypes`][@stdlib/array/dtypes]</span><span class="delimiter">: </span><span class="description">list of array data types.</span>
 -   <span class="package-name">[`@stdlib/array-typed-dtypes`][@stdlib/array/typed-dtypes]</span><span class="delimiter">: </span><span class="description">list of typed array data types.</span>
+-   <span class="package-name">[`@stdlib/array-typed-real-dtypes`][@stdlib/array/typed-real-dtypes]</span><span class="delimiter">: </span><span class="description">list of typed array data types.</span>
 -   <span class="package-name">[`@stdlib/ndarray-dtypes`][@stdlib/ndarray/dtypes]</span><span class="delimiter">: </span><span class="description">list of ndarray data types.</span>
 
 </section>
@@ -234,6 +235,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/dtypes]: https://github.com/stdlib-js/array-dtypes
 
 [@stdlib/array/typed-dtypes]: https://github.com/stdlib-js/array-typed-dtypes
+
+[@stdlib/array/typed-real-dtypes]: https://github.com/stdlib-js/array-typed-real-dtypes
 
 [@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
 
