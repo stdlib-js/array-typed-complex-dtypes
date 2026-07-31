@@ -1,7 +1,7 @@
-/**
+/*
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2021 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,29 +16,24 @@
 * limitations under the License.
 */
 
-'use strict';
+// TypeScript Version: 4.1
 
-// MODULES //
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@esm/index.d.ts"/>
 
-var dt = require( '@stdlib/array-dtypes' );
-
-
-// MAIN //
+import { ComplexFloatingPointDataType as DataType } from '@stdlib/types/array';
 
 /**
 * Returns a list of complex typed array data types.
 *
-* @returns {StringArray} list of complex typed array data types
+* @returns list of complex typed array data types
 *
 * @example
 * var list = dtypes();
 * // e.g., returns [ 'complex64', ... ]
 */
-function dtypes() {
-	return dt( 'complex_floating_point' );
-}
+declare function dtypes(): Array<DataType>;
 
 
 // EXPORTS //
 
-module.exports = dtypes;
+export = dtypes;
